@@ -227,6 +227,14 @@ main .profile{
     font-size: 25px;
 }
 
+#link-git {
+    transition: color 0.3s ease 0s;
+    margin: 0 6px;
+    font-size: 15px;
+    display: flex;
+
+}
+
 .profile-social a:hover{
     text-decoration: none;
     color: #6698bb;
